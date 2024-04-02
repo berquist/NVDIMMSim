@@ -34,6 +34,7 @@
 #ifndef NVDIMM_UTIL_H
 #define NVDIMM_UTIL_H
 
+#include <cstdint>
 #include <string>
 #include <iostream>
 #include <sstream>
